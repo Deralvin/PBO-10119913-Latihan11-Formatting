@@ -9,8 +9,10 @@ package latihan11formatting;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Formatting
  */
-public class Latihan11Formatting {
+public class PBO1010119913Latihan11Formatting {
 
     /**
      * @param args the command line arguments
